@@ -1,18 +1,19 @@
 Project Name: Workspace 06 23 
-Project State: git setup 
+Project State: initialization 
 Project Directory: /c/Users/DurfTop/Desktop/workspace testing/workspace test 2018 06 23 
-Update Date: Sun, Jun 24, 2018 12:09:27 AM 
-Branch Name: placeholder 
-Branch UID: 1 
+Last Update: Sun, Jun 24, 2018 12:11:01 AM 
+Branch Name: work_2018_06_0001 
+Branch UID: 0001 
  
 Last Time I Worked On This Project : 
-I was setting everything up
+reminder-no punctuations that could be escape terms 
  
 This Time I : 
-moved the log file folder to the correct place
+reminder-no punctuations that could be escape terms 
  
 Next Time I Will : 
-add stata and R locations 
+reminder-no punctuations that could be escape terms 
  
  
-Time of Commit: Sun, Jun 24, 2018 12:10:55 AM
+ 
+Time of Commit: Sun, Jun 24, 2018 12:11:42 AM
