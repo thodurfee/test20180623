@@ -137,6 +137,8 @@ git commit -m "first commit at $(date)"
 git remote add origin $gitorigin
 echo $gitorigin
 git push -u $gitorigin master
+cd ../
+touch .gitignore
 ############
 # 04: Exit #
 ############
