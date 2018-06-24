@@ -55,7 +55,7 @@ settingsfile="03 input git settings thodurfee.csv"
 project_name=$( awk -F ","  "/Project Name/"   "$metafile"  |  cut  -d ,  -f2 )
 gituser=$( awk -F ","  "/git user/"   "$settingsfile"  |  cut  -d ,  -f2 )
 gitrepo=$( awk -F ","  "/git repo/"   "$settingsfile"  |  cut  -d ,  -f2 )
-gitorigin=$( awk -F ","  "git hyperlink"   "$settingsfile"  |  cut  -d ,  -f2 )
+gitorigin=$( awk -F ","  "/git hyperlink/"   "$settingsfile"  |  cut  -d ,  -f2 )
 echo ".................................................."
 echo $gitorigin
 #
@@ -136,7 +136,7 @@ git add .
 git commit -m "first commit at $(date)"
 git remote add origin $gitorigin
 echo $gitorigin
-git push -u origin master
+git push -u $gitorigin master
 ############
 # 04: Exit #
 ############
