@@ -1,20 +1,16 @@
 Project Name: Workspace 06 23 
-Project State: initialization 
+Project State: git setup 
 Project Directory: /c/Users/DurfTop/Desktop/workspace testing/workspace test 2018 06 23 
-Last Update: Sun, Jun 24, 2018 12:03:48 AM 
-Branch Name: work_2018_06_0001 
-Branch UID: 0001 
+Update Date: Sun, Jun 24, 2018 12:09:27 AM 
+Branch Name: placeholder 
+Branch UID: 1 
  
 Last Time I Worked On This Project : 
-it was the first time set up
-I was having problems with git ignore
-I think if I start the folder out right, and not commit a large file in the first place, then I never will run into the problem I was having
+reminder-no punctuations that could be escape terms 
  
 This Time I : 
-Am making sure that it works when I update eveything again 
+reminder-no punctuations that could be escape terms 
  
 Next Time I Will : 
-Add R and stata locations 
+reminder-no punctuations that could be escape terms 
  
- 
-Time of Commit: Sun, Jun 24, 2018 12:06:40 AM
