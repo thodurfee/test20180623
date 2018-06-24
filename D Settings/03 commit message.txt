@@ -6,11 +6,13 @@ Branch Name: placeholder
 Branch UID: 1 
  
 Last Time I Worked On This Project : 
-reminder-no punctuations that could be escape terms 
+I was setting everything up
  
 This Time I : 
-reminder-no punctuations that could be escape terms 
+moved the log file folder to the correct place
  
 Next Time I Will : 
-reminder-no punctuations that could be escape terms 
+add stata and R locations 
  
+ 
+Time of Commit: Sun, Jun 24, 2018 12:10:55 AM
